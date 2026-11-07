@@ -113,7 +113,7 @@ Smart healthcare price comparison and hospital recommendation platform developed
   <a href="https://github.com/VinayKumar07032006">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://linkedin.com/in/vinaykumar2006-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://vinay-dev-silk.vercel.app/">
